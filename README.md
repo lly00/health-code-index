@@ -10,18 +10,20 @@
 
 - 通信大数据行程卡模拟（[GitHub](https://github.com/ilovexjp/trip-card)）
 - 粤康码模拟（[GitHub](https://github.com/ilovexjp/ykm-simulator)）
+  - 穗康码场所登记模拟
 - 苏康码模拟（[GitHub](https://github.com/ilovexjp/skm-simulator)）
 - 北京健康宝模拟（[GitHub](https://github.com/ilovexjp/jkb-simulator)）
 - 四川天府健康通模拟（[GitHub](https://github.com/ilovexjp/tfjkt-simulator)）
 - 随申码模拟（[GitHub](https://github.com/ilovexjp/ssm-simulator)）
 - 山东健康通行码模拟
   - 威海场所码模拟（由 LibertyNeverDies 制作）
+- 湖北健康码模拟
 - 湖北健康码（武汉）模拟
-  - 湖北健康码（其它城市）模拟
 - 湖南电子健康卡模拟（由 uodedcli 制作）
 - 福建健康码模拟
 - 浙江健康码模拟
 - 豫康码模拟
+- 天津数字防疫模拟
 
 ## 使用说明
 
@@ -29,8 +31,8 @@
   - 在 Safari (iOS) 上，点击下方“分享”按钮，再点击“添加至主屏幕”
   - 在 Chrome (Android) 上，点击右上角菜单按钮，再点击“添加至主屏幕”
   - 在 Firefox (Android) 上，点击右上角菜单按钮，再点击“安装”
-- 亦可以在各项目页面单独安装某一项目
-  - 如果遇到状态栏文字颜色问题，请尝试在常用项目子页面中单独安装
+- 亦可在各项目页面单独安装某一项目
+- 置顶项目和访问过的项目会被预加载以供离线使用
 
 ## 网页 Demo
 
@@ -38,7 +40,7 @@ Cloudflare: [ilovexjp.pages.dev](https://ilovexjp.pages.dev)
 
 Netlify: [ilovexjp.netlify.app](https://ilovexjp.netlify.app)
 
-使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以可以从 [GitHub Releases](https://github.com/ilovexjp/health-code-index/releases) 中下载源码自行部署到一台 Web 服务器上。可能需要 https 才能使用摄像头。
+使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以可以从 [GitHub Releases](https://github.com/ilovexjp/health-code-index/releases) 中下载源码自行部署到一台 Web 服务器上。可能需要 https 才能使用预加载功能和摄像头。
 
 ## 附言
 
